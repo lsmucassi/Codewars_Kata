@@ -1,0 +1,5 @@
+The code does not execute properly. Try to figure out why.
+
+This is the first project you will possibly get when registering with codewars
+
+Main aim is to fix the multiply function - I chose C
